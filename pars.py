@@ -1,5 +1,4 @@
-import asyncio
-import aiohttp
+import asyncio,aiohttp
 from bs4 import BeautifulSoup as BS
 from fake_useragent import UserAgent
 from pyshorteners import Shortener
